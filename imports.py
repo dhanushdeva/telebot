@@ -1,0 +1,6 @@
+
+POCKETBASE_URL = 'http://127.0.0.1:8090/api/collections/exam'
+POCKETBASE_API_TOKEN = "IiwidHlwZSI6ImFkbWluIn0.H3f_Q2F0B_861GpQq6hqAdT-7H_ofvwFLABqON1onb4"
+
+# Telegram Bot Token
+TELEGRAM_BOT_TOKEN = "7123209873:AAG3ryFn1mByLO0S1v2B1DiU1thj9pqVj3A"
